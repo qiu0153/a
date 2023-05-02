@@ -1,0 +1,982 @@
+"","tvhours","marital","age","race","income"
+"18949",2,"Married",56,"White",NA
+"18951",1,"Married",56,"White",NA
+"18953",2,"Married",34,"White",NA
+"18959",2,"Married",40,"White",16.02
+"18960",0,"Not Married",25,"White",26.98
+"18961",6,"Married",56,"White",23.21
+"18964",2,"Married",51,"White",26.54
+"18966",1,"Not Married",30,"Black",23.92
+"18972",2,"Not Married",35,"White",18.74
+"18973",1,"Married",57,"White",24.2
+"18977",3,"Not Married",61,"White",22.94
+"18982",4,"Not Married",38,"Other",28.13
+"18983",0,"Not Married",31,"White",32.13
+"18989",3,"Not Married",26,"White",28.13
+"18992",3,"Not Married",30,"White",29.61
+"18993",1,"Married",59,"White",44.14
+"18994",2,"Married",32,"White",44.49
+"18995",4,"Married",32,"Other",18.97
+"18996",0,"Married",52,"White",16.75
+"19000",1,"Married",51,"Other",29.98
+"19001",1,"Not Married",24,"Black",18.9
+"19004",2,"Not Married",56,"White",29.24
+"19007",1,"Not Married",32,"Other",15.06
+"19010",0,"Married",34,"Other",28.56
+"19013",1,"Not Married",57,"White",18.99
+"19018",2,"Married",51,"White",40.79
+"19026",5,"Married",51,"Other",17.01
+"19034",6,"Not Married",25,"White",28.4
+"19036",2,"Not Married",45,"White",19.01
+"19039",4,"Not Married",24,"White",24.63
+"19041",2,"Not Married",26,"Black",20.37
+"19046",4,"Not Married",43,"Black",28.66
+"19047",1,"Not Married",32,"White",34.12
+"19049",2,"Married",32,"White",37.34
+"19051",2,"Married",41,"White",27.83
+"19054",1,"Married",42,"White",19.33
+"19057",3,"Not Married",26,"Other",15.8
+"19058",0,"Married",29,"Other",38.28
+"19061",1,"Not Married",35,"White",26.01
+"19063",3,"Not Married",30,"Other",18.39
+"19064",1,"Married",44,"Other",29.01
+"19065",4,"Not Married",58,"White",15.62
+"19074",2,"Not Married",29,"Black",20.91
+"19077",1,"Married",53,"Black",22.5
+"19078",3,"Not Married",54,"Black",8.2
+"19081",1,"Not Married",30,"White",27.88
+"19082",3,"Married",61,"White",23.91
+"19084",2,"Married",41,"White",27.78
+"19085",3,"Married",57,"Other",31.41
+"19086",1,"Not Married",29,"White",24.17
+"19088",2,"Not Married",21,"White",29.96
+"19094",4,"Not Married",37,"Black",16.88
+"19099",2,"Not Married",23,"Black",23.37
+"19100",2,"Married",25,"Other",15.72
+"19102",1,"Married",48,"White",36.68
+"19107",3,"Not Married",45,"White",30.3
+"19109",1,"Not Married",23,"White",15.33
+"19121",2,"Not Married",46,"White",30.09
+"19125",2,"Not Married",71,"White",31.19
+"19126",4,"Not Married",37,"Other",25.99
+"19129",7,"Not Married",46,"White",37.16
+"19132",2,"Not Married",62,"White",21.71
+"19134",4,"Not Married",48,"Black",26.36
+"19137",5,"Not Married",35,"Black",28.04
+"19140",0,"Not Married",36,"White",24.87
+"19144",1,"Not Married",20,"Other",19.05
+"19150",1,"Married",46,"Other",28.08
+"19151",14,"Married",50,"White",24.58
+"19152",2,"Not Married",34,"Other",14.27
+"19154",1,"Married",35,"White",25.1
+"19156",3,"Married",53,"White",24.96
+"19159",2,"Married",38,"White",26.25
+"19160",2,"Married",35,"White",36.53
+"19165",1,"Not Married",41,"White",19.95
+"19167",4,"Married",61,"Other",24.24
+"19168",2,"Married",56,"White",17.1
+"19170",1,"Not Married",24,"Other",17.74
+"19171",2,"Married",69,"White",28.11
+"19172",1,"Married",61,"White",26.17
+"19177",3,"Not Married",69,"White",23.21
+"19183",1,"Not Married",30,"White",27.04
+"19187",2,"Not Married",51,"Other",23.9
+"19188",4,"Married",61,"White",22.1
+"19189",2,"Married",45,"White",18.74
+"19194",1,"Not Married",41,"Other",28.81
+"19196",2,"Married",58,"Other",18.46
+"19197",3,"Married",72,"White",34.67
+"19201",4,"Married",58,"White",25.96
+"19202",1,"Married",50,"White",30.7
+"19204",1,"Not Married",43,"White",15.02
+"19215",1,"Married",46,"White",27.23
+"19220",3,"Not Married",48,"Other",24.68
+"19222",1,"Not Married",29,"White",37.04
+"19224",0,"Not Married",29,"Black",32.3
+"19225",4,"Not Married",50,"Black",21.81
+"19227",0,"Married",30,"White",41.45
+"19228",1,"Married",32,"White",16.81
+"19232",0,"Not Married",26,"White",27.63
+"19233",2,"Married",38,"White",28.22
+"19235",4,"Not Married",20,"White",28.79
+"19236",1,"Married",39,"White",30.31
+"19237",4,"Married",57,"White",26.07
+"19241",2,"Married",61,"White",25.28
+"19247",3,"Not Married",26,"Other",11.74
+"19249",1,"Married",60,"Black",37.21
+"19250",2,"Not Married",43,"White",25.12
+"19251",4,"Not Married",65,"White",21.99
+"19252",1,"Not Married",34,"Black",31.49
+"19256",0,"Not Married",25,"White",30.34
+"19258",2,"Not Married",46,"Black",27.58
+"19259",0,"Not Married",28,"Black",13.54
+"19262",12,"Married",55,"Other",22.3
+"19265",2,"Married",33,"Other",41.53
+"19269",4,"Married",58,"White",16.3
+"19270",4,"Married",54,"Other",20.34
+"19272",2,"Married",36,"White",33.6
+"19276",0,"Married",66,"Other",29.62
+"19278",4,"Not Married",53,"White",28.07
+"19279",2,"Married",41,"White",28.53
+"19285",3,"Married",64,"White",25.41
+"19288",2,"Married",50,"White",31.28
+"19290",2,"Married",45,"White",28.32
+"19291",4,"Not Married",47,"White",16.93
+"19293",2,"Married",36,"White",13.65
+"19294",1,"Married",38,"White",26.39
+"19298",1,"Married",53,"White",12.87
+"19300",3,"Married",29,"White",20.49
+"19303",1,"Married",35,"White",25.6
+"19304",6,"Not Married",35,"White",38.95
+"19307",0,"Not Married",40,"White",8.57
+"19310",4,"Not Married",30,"White",29.37
+"19311",1,"Married",49,"White",22.8
+"19312",2,"Married",58,"White",14.38
+"19314",1,"Married",49,"White",19.03
+"19316",2,"Not Married",43,"White",29.31
+"19320",0,"Married",52,"White",27.36
+"19321",4,"Married",63,"White",27.53
+"19322",1,"Married",60,"White",26.15
+"19324",1,"Married",49,"White",26.83
+"19325",1,"Married",36,"White",16.01
+"19328",2,"Married",57,"White",34.07
+"19330",1,"Not Married",39,"Other",32.07
+"19331",1,"Married",33,"Other",29.07
+"19333",8,"Not Married",57,"Black",14
+"19338",2,"Not Married",22,"Black",20.85
+"19339",3,"Not Married",70,"Black",31.65
+"19340",0,"Not Married",27,"Black",28.59
+"19341",5,"Not Married",58,"Black",9.21
+"19343",1,"Not Married",36,"Black",14.74
+"19349",2,"Not Married",63,"White",22.14
+"19351",4,"Not Married",63,"White",13.05
+"19352",1,"Married",31,"White",31.73
+"19354",0,"Married",60,"Black",26.96
+"19355",2,"Married",34,"White",32.05
+"19357",5,"Not Married",72,"White",25.14
+"19359",4,"Married",49,"White",34.81
+"19360",1,"Not Married",38,"Black",6.12
+"19361",3,"Not Married",40,"White",19.15
+"19363",2,"Married",35,"White",31.92
+"19364",3,"Not Married",62,"Black",28.8
+"19365",2,"Not Married",32,"Black",22.33
+"19367",10,"Not Married",44,"Other",28.45
+"19369",2,"Married",57,"Other",23.48
+"19380",1,"Married",41,"White",45.12
+"19387",0,"Married",36,"White",26.87
+"19388",1,"Not Married",65,"White",22.57
+"19389",0,"Not Married",44,"White",25.66
+"19390",5,"Not Married",78,"White",31.83
+"19392",1,"Married",65,"White",38.4
+"19394",2,"Married",60,"White",35.02
+"19395",1,"Married",50,"Other",19.9
+"19399",3,"Married",32,"White",11.09
+"19400",2,"Married",28,"White",28.73
+"19401",1,"Not Married",29,"Black",25.33
+"19407",2,"Married",45,"White",38.68
+"19411",3,"Not Married",74,"White",30.32
+"19412",3,"Married",60,"Other",35.6
+"19416",4,"Not Married",28,"White",20.69
+"19419",2,"Not Married",24,"White",22.99
+"19422",2,"Married",55,"White",26.41
+"19424",3,"Not Married",52,"White",36.28
+"19425",5,"Married",63,"White",31.61
+"19430",3,"Not Married",31,"White",18.72
+"19431",1,"Married",60,"White",29.62
+"19432",4,"Not Married",59,"White",19.64
+"19441",1,"Not Married",21,"White",5.32
+"19445",3,"Married",65,"Other",21.44
+"19450",0,"Not Married",63,"White",25.63
+"19451",3,"Not Married",66,"White",23.09
+"19454",3,"Married",36,"Other",29.08
+"19455",0,"Not Married",58,"Other",15.75
+"19460",3,"Not Married",34,"White",21.4
+"19462",3,"Married",68,"Black",30.62
+"19465",2,"Not Married",31,"Other",23.07
+"19466",2,"Married",56,"Other",21.75
+"19467",2,"Not Married",37,"Black",33.13
+"19470",2,"Not Married",45,"Black",44.12
+"19474",1,"Not Married",60,"White",27.97
+"19476",1,"Not Married",28,"White",25.38
+"19477",0,"Not Married",43,"White",36.12
+"19480",3,"Married",29,"Other",27.66
+"19484",1,"Not Married",29,"White",28.31
+"19490",3,"Married",33,"White",15.99
+"19491",2,"Not Married",69,"White",25.11
+"19492",2,"Married",37,"White",16.75
+"19501",2,"Not Married",43,"White",18.53
+"19505",2,"Married",49,"White",19.82
+"19506",1,"Married",45,"White",33.57
+"19509",3,"Married",53,"White",15.82
+"19512",1,"Married",30,"White",27.6
+"19514",6,"Not Married",56,"Black",21.15
+"19515",7,"Not Married",31,"Black",22.5
+"19517",1,"Married",55,"Other",18.03
+"19518",5,"Not Married",55,"Black",29.76
+"19523",2,"Not Married",71,"White",30.27
+"19524",3,"Married",32,"White",29.26
+"19528",1,"Not Married",58,"White",22.17
+"19529",2,"Married",54,"White",20.58
+"19532",1,"Married",47,"White",16.16
+"19536",5,"Not Married",42,"Black",18.98
+"19537",3,"Married",56,"White",21.38
+"19539",3,"Married",55,"White",27.75
+"19547",1,"Married",53,"Black",26.72
+"19550",1,"Not Married",30,"Black",28.06
+"19556",1,"Married",57,"White",32.83
+"19558",1,"Not Married",47,"White",26.45
+"19560",5,"Married",29,"Other",26.15
+"19561",1,"Married",36,"White",35.54
+"19562",3,"Married",44,"White",30.13
+"19565",2,"Married",64,"White",35.59
+"19570",2,"Not Married",47,"White",35.96
+"19574",3,"Married",61,"White",30.01
+"19578",5,"Not Married",35,"White",22.03
+"19591",3,"Married",53,"White",30.47
+"19596",3,"Not Married",25,"Black",25.98
+"19597",1,"Married",61,"Other",28.13
+"19598",2,"Married",50,"White",22.97
+"19600",3,"Married",57,"White",31.38
+"19602",2,"Not Married",31,"Black",18.28
+"19603",5,"Not Married",24,"Black",17.07
+"19604",5,"Married",61,"Black",24.44
+"19608",7,"Not Married",24,"White",14.71
+"19612",2,"Not Married",36,"White",22.76
+"19618",3,"Married",36,"Black",41.5
+"19619",2,"Married",40,"White",32.74
+"19620",5,"Married",33,"Black",18.03
+"19627",2,"Not Married",32,"White",42.22
+"19629",2,"Not Married",57,"White",22.51
+"19631",4,"Not Married",59,"White",27.12
+"19633",3,"Not Married",57,"White",34.83
+"19642",1,"Married",27,"White",33.52
+"19643",4,"Not Married",34,"White",30.18
+"19648",2,"Not Married",24,"Black",17.38
+"19650",1,"Not Married",48,"White",17.13
+"19651",2,"Not Married",58,"White",36.69
+"19652",2,"Not Married",57,"White",26.38
+"19655",3,"Married",30,"White",26.12
+"19659",3,"Married",61,"Black",30.88
+"19660",1,"Married",50,"Other",13.91
+"19663",24,"Not Married",27,"Black",7.49
+"19664",3,"Not Married",21,"Black",28.5
+"19665",5,"Not Married",29,"Black",25.47
+"19669",1,"Not Married",37,"White",34.05
+"19673",3,"Married",71,"White",25.66
+"19675",1,"Married",45,"White",26.81
+"19677",5,"Not Married",22,"Black",21.27
+"19679",3,"Married",50,"White",24.69
+"19683",1,"Not Married",26,"White",20.93
+"19684",2,"Not Married",59,"White",20.3
+"19686",3,"Married",38,"Black",23.5
+"19687",8,"Not Married",52,"Black",12.89
+"19691",2,"Not Married",32,"Black",13.89
+"19693",3,"Married",48,"White",22.52
+"19695",1,"Married",45,"White",18.18
+"19701",2,"Not Married",39,"Black",40.83
+"19703",4,"Married",54,"Black",28.68
+"19710",2,"Not Married",53,"White",32.63
+"19712",2,"Married",75,"Black",26.3
+"19714",5,"Not Married",63,"Black",14.92
+"19716",2,"Not Married",31,"White",20.67
+"19718",5,"Not Married",74,"White",34.7
+"19722",3,"Not Married",24,"Black",30.09
+"19723",2,"Not Married",40,"Other",17.38
+"19732",3,"Married",60,"White",13.88
+"19734",0,"Not Married",35,"White",23.35
+"19737",5,"Not Married",49,"Black",21.82
+"19739",3,"Not Married",30,"Black",29.04
+"19747",3,"Not Married",39,"White",19.82
+"19748",1,"Married",58,"White",17.83
+"19750",4,"Not Married",57,"White",30.1
+"19751",1,"Married",47,"White",22.34
+"19752",1,"Married",53,"White",30.39
+"19753",2,"Married",37,"White",24.49
+"19755",1,"Not Married",54,"Other",22.26
+"19759",0,"Not Married",22,"White",26.56
+"19760",5,"Not Married",30,"Black",25.32
+"19762",3,"Not Married",25,"Black",16.22
+"19763",4,"Married",56,"White",24.38
+"19765",3,"Not Married",55,"White",33.38
+"19766",2,"Not Married",27,"White",21.7
+"19771",2,"Not Married",52,"White",15.8
+"19774",2,"Married",31,"White",16.94
+"19778",5,"Not Married",23,"Black",26.34
+"19781",2,"Not Married",19,"Black",19.6
+"19783",1,"Married",40,"White",28.13
+"19788",4,"Not Married",68,"White",36.99
+"19790",1,"Married",61,"Other",35.31
+"19791",4,"Married",39,"Other",23.69
+"19794",1,"Not Married",56,"White",25.35
+"19795",4,"Married",52,"White",28.18
+"19796",4,"Married",28,"White",19.26
+"19800",1,"Married",29,"White",26.84
+"19804",2,"Not Married",34,"Other",29.76
+"19805",0,"Married",29,"White",21.99
+"19806",2,"Not Married",34,"White",30.95
+"19809",2,"Married",31,"White",31.29
+"19811",2,"Married",58,"White",33.03
+"19812",0,"Not Married",42,"White",31.09
+"19813",3,"Married",35,"White",21.68
+"19816",2,"Married",53,"White",33.92
+"19818",2,"Not Married",41,"White",28.61
+"19820",2,"Married",58,"White",10.53
+"19822",1,"Married",40,"White",29.1
+"19829",4,"Not Married",53,"White",28.68
+"19832",1,"Not Married",22,"Black",26.02
+"19834",0,"Not Married",30,"White",24.8
+"19835",1,"Married",60,"White",33.17
+"19837",1,"Married",60,"White",25.15
+"19839",8,"Not Married",52,"Black",31.23
+"19840",4,"Married",25,"White",26.21
+"19842",1,"Married",38,"White",23.37
+"19843",2,"Not Married",41,"White",31.04
+"19844",2,"Not Married",43,"Black",34.56
+"19845",3,"Not Married",34,"White",18.17
+"19846",5,"Married",39,"Black",17.7
+"19848",1,"Not Married",27,"White",18.78
+"19849",3,"Not Married",34,"White",10.38
+"19852",4,"Not Married",59,"White",23.97
+"19856",0,"Not Married",65,"Other",15.77
+"19860",0,"Not Married",44,"Other",33.39
+"19863",6,"Not Married",38,"Black",25.01
+"19864",1,"Not Married",58,"Black",25.2
+"19865",1,"Married",38,"White",19.63
+"19866",3,"Married",53,"White",31.52
+"19867",1,"Married",42,"White",30.49
+"19868",1,"Married",55,"White",26.55
+"19869",4,"Married",51,"White",36.78
+"19875",2,"Not Married",38,"White",12.42
+"19877",1,"Not Married",56,"White",27.23
+"19878",2,"Not Married",37,"White",26.06
+"19879",6,"Not Married",60,"White",28.53
+"19880",2,"Married",32,"White",17.97
+"19882",3,"Married",53,"White",33.3
+"19889",3,"Not Married",42,"Other",19.59
+"19890",3,"Married",31,"White",29.82
+"19892",1,"Married",36,"White",23.02
+"19895",0,"Not Married",41,"White",18.81
+"19898",2,"Married",40,"White",17.3
+"19900",4,"Married",43,"Other",31.37
+"19901",1,"Not Married",59,"White",27.9
+"19902",1,"Married",40,"White",17.94
+"19903",4,"Not Married",53,"White",24.06
+"19909",2,"Married",40,"Other",18.92
+"19915",2,"Married",64,"White",19.27
+"19916",1,"Married",49,"White",29.83
+"19918",1,"Married",62,"White",24.88
+"19919",4,"Not Married",42,"White",17.84
+"19923",0,"Not Married",54,"White",36.15
+"19925",1,"Married",56,"White",29.8
+"19926",0,"Married",50,"White",31.37
+"19930",3,"Not Married",49,"White",36.17
+"19932",3,"Married",68,"White",29.88
+"19936",2,"Married",55,"White",17.26
+"19938",4,"Not Married",42,"White",26.86
+"19944",1,"Not Married",53,"White",37.6
+"19945",1,"Not Married",56,"White",23.75
+"19946",0,"Not Married",35,"White",43.52
+"19947",5,"Not Married",23,"Black",22.8
+"19949",3,"Not Married",22,"Black",24.14
+"19953",1,"Married",33,"White",29.01
+"19956",5,"Not Married",36,"White",29.99
+"19958",0,"Not Married",25,"White",17.73
+"19959",4,"Not Married",53,"Other",33.07
+"19961",2,"Not Married",44,"White",36.11
+"19963",6,"Married",51,"Black",34.63
+"19965",2,"Not Married",40,"Black",27.58
+"19967",2,"Married",50,"White",9.53
+"19968",2,"Married",50,"White",27.16
+"19971",3,"Not Married",41,"White",28.63
+"19972",4,"Not Married",39,"White",29.03
+"19975",1,"Not Married",55,"White",29.12
+"19977",2,"Married",47,"White",36.72
+"19978",2,"Married",60,"Black",34.13
+"19980",6,"Married",57,"Other",23.36
+"19982",1,"Married",30,"White",21.47
+"19984",0,"Not Married",58,"White",22.1
+"19989",3,"Married",55,"White",36.8
+"19990",2,"Married",54,"White",29.56
+"19992",12,"Not Married",26,"Black",26
+"19998",0,"Not Married",47,"White",13.59
+"20002",3,"Not Married",44,"White",20.03
+"20003",6,"Married",54,"White",10.48
+"20004",2,"Not Married",57,"White",30.71
+"20006",3,"Not Married",60,"White",31.95
+"20007",7,"Not Married",30,"Black",14.83
+"20010",4,"Married",46,"Black",32.13
+"20011",3,"Married",59,"Other",33.87
+"20013",5,"Not Married",59,"Black",33.31
+"20015",4,"Married",51,"Black",20.24
+"20016",2,"Not Married",42,"White",23.19
+"20019",2,"Married",25,"White",33.08
+"20023",2,"Not Married",21,"White",23.21
+"20026",2,"Married",35,"White",37.04
+"20030",3,"Married",62,"White",36.31
+"20035",2,"Married",52,"White",34.85
+"20039",4,"Not Married",58,"Black",18.31
+"20042",1,"Not Married",19,"White",28.97
+"20045",1,"Married",37,"White",27.13
+"20049",2,"Married",50,"White",36.82
+"20051",3,"Not Married",66,"White",20.54
+"20052",6,"Married",60,"White",25.94
+"20054",2,"Not Married",33,"Other",25
+"20055",0,"Not Married",45,"Other",28.5
+"20061",1,"Married",32,"White",23.55
+"20062",1,"Not Married",44,"White",39.7
+"20064",2,"Not Married",38,"Other",26.23
+"20065",2,"Not Married",32,"Other",14.45
+"20071",1,"Married",47,"White",10.68
+"20073",6,"Not Married",28,"White",21.59
+"20074",2,"Not Married",39,"White",30.38
+"20075",3,"Not Married",55,"White",30.7
+"20078",3,"Married",64,"White",28.15
+"20079",0,"Not Married",33,"White",22.97
+"20080",4,"Married",43,"White",22.79
+"20083",2,"Not Married",43,"Black",30.87
+"20085",20,"Not Married",23,"White",8.28
+"20087",4,"Married",31,"Black",34.84
+"20088",5,"Not Married",51,"Black",20.4
+"20090",1,"Not Married",49,"White",40.14
+"20091",4,"Married",50,"White",28.33
+"20093",8,"Not Married",80,"Other",23.76
+"20097",3,"Not Married",28,"White",13.25
+"20102",3,"Married",39,"White",33.07
+"20104",0,"Married",48,"White",27.53
+"20106",1,"Not Married",47,"White",21.4
+"20107",2,"Not Married",52,"White",18.55
+"20108",2,"Not Married",22,"Black",23.03
+"20112",3,"Not Married",27,"Black",19.71
+"20115",2,"Not Married",53,"Black",33.19
+"20116",1,"Not Married",37,"Black",28.05
+"20120",4,"Not Married",30,"Black",15.43
+"20122",2,"Not Married",45,"White",22.19
+"20124",1,"Not Married",49,"White",26.34
+"20131",1,"Not Married",35,"White",27.05
+"20133",6,"Married",51,"White",19.98
+"20137",2,"Not Married",29,"White",32.54
+"20138",2,"Married",30,"White",21.6
+"20148",12,"Not Married",51,"Black",18.29
+"20151",2,"Married",52,"White",29.64
+"20152",4,"Not Married",52,"Black",26.24
+"20153",4,"Married",43,"White",19.68
+"20155",3,"Married",39,"White",25.68
+"20156",2,"Not Married",25,"White",30.48
+"20160",4,"Not Married",60,"White",16.12
+"20162",4,"Not Married",26,"White",17.02
+"20163",1,"Not Married",56,"Other",35.11
+"20165",0,"Not Married",56,"White",40.43
+"20168",5,"Not Married",33,"White",25.39
+"20170",4,"Not Married",43,"White",5.71
+"20176",2,"Married",64,"White",32.8
+"20180",6,"Not Married",61,"Black",23.95
+"20181",1,"Not Married",50,"White",32.35
+"20182",1,"Married",44,"Black",25.6
+"20186",4,"Married",62,"Black",18.92
+"20187",5,"Not Married",60,"Black",21.82
+"20188",2,"Married",29,"White",23.44
+"20189",0,"Not Married",62,"White",23.31
+"20190",2,"Not Married",43,"White",31.19
+"20195",8,"Not Married",57,"White",22.45
+"20196",1,"Not Married",26,"White",24.74
+"20198",2,"Married",62,"White",23.36
+"20199",5,"Married",55,"White",30.17
+"20200",4,"Not Married",50,"White",23.86
+"20208",6,"Married",53,"Black",31.69
+"20209",2,"Not Married",53,"White",23.46
+"20210",3,"Not Married",54,"Black",23.18
+"20211",8,"Not Married",62,"Black",22.29
+"20213",1,"Not Married",51,"Black",18.98
+"20214",1,"Married",32,"Black",35.84
+"20215",0,"Not Married",22,"White",36.26
+"20217",2,"Married",67,"White",25.1
+"20219",2,"Not Married",45,"White",27.95
+"20226",3,"Married",49,"White",27.94
+"20229",3,"Not Married",37,"Other",21.09
+"20232",2,"Married",40,"White",28.46
+"20238",1,"Not Married",63,"Other",28.52
+"20242",1,"Married",52,"White",24.65
+"20244",4,"Married",55,"White",25.23
+"20245",1,"Married",24,"White",29.04
+"20247",1,"Married",43,"White",30.45
+"20248",2,"Not Married",53,"White",19.66
+"20251",1,"Married",34,"White",36.54
+"20254",1,"Married",36,"White",27.14
+"20256",0,"Not Married",29,"White",32.17
+"20258",0,"Not Married",26,"Other",18.62
+"20259",2,"Married",50,"White",24.12
+"20262",2,"Not Married",35,"White",25.55
+"20264",3,"Not Married",51,"White",27.85
+"20270",6,"Married",76,"White",30.63
+"20271",0,"Not Married",63,"White",32.55
+"20272",5,"Not Married",62,"White",19.26
+"20273",1,"Married",47,"White",33.21
+"20274",1,"Married",32,"White",24.31
+"20277",1,"Married",36,"White",28.69
+"20281",4,"Not Married",41,"Other",8.23
+"20283",0,"Not Married",32,"White",26.03
+"20284",1,"Not Married",37,"White",25.46
+"20286",2,"Married",29,"White",22.16
+"20289",1,"Married",41,"White",33.62
+"20290",1,"Married",53,"White",25.12
+"20291",1,"Married",31,"White",35.55
+"20292",0,"Married",35,"White",24.27
+"20293",1,"Married",36,"White",26.62
+"20295",1,"Married",60,"White",24.87
+"20298",2,"Married",41,"White",30.53
+"20301",3,"Not Married",61,"White",31.32
+"20304",3,"Married",34,"White",27.4
+"20305",2,"Not Married",65,"White",22.32
+"20306",8,"Not Married",37,"White",13.77
+"20311",3,"Not Married",38,"Other",22.35
+"20318",3,"Married",34,"White",20.22
+"20319",3,"Not Married",44,"White",20.93
+"20320",5,"Not Married",35,"White",30.03
+"20321",3,"Not Married",75,"White",32.07
+"20328",1,"Married",33,"White",39.01
+"20329",4,"Married",57,"White",30.88
+"20330",0,"Not Married",26,"White",24.62
+"20338",1,"Not Married",67,"White",19.6
+"20339",2,"Not Married",71,"White",34.2
+"20349",2,"Not Married",57,"White",20.97
+"20350",1,"Married",42,"White",36.12
+"20351",2,"Married",64,"White",43.01
+"20355",1,"Not Married",33,"White",18.42
+"20356",6,"Not Married",32,"White",15.14
+"20361",2,"Not Married",25,"Other",27.49
+"20364",0,"Married",39,"White",26.59
+"20367",1,"Not Married",25,"White",30.67
+"20371",4,"Not Married",33,"White",28.41
+"20375",2,"Married",34,"Other",23.55
+"20376",1,"Married",59,"White",23.05
+"20382",3,"Not Married",37,"White",32.68
+"20385",2,"Married",27,"White",20.04
+"20387",3,"Not Married",20,"Black",28.83
+"20388",2,"Not Married",34,"White",29.76
+"20392",3,"Not Married",22,"White",8
+"20394",7,"Not Married",31,"White",7.18
+"20402",1,"Married",39,"White",20.93
+"20404",3,"Not Married",28,"White",34.3
+"20405",0,"Married",41,"White",23.96
+"20408",2,"Married",43,"White",24.67
+"20409",6,"Not Married",46,"Other",17.82
+"20410",2,"Not Married",51,"Black",7.79
+"20416",2,"Married",55,"White",36.93
+"20421",1,"Married",50,"White",33.85
+"20423",4,"Not Married",43,"White",25.57
+"20424",0,"Not Married",26,"White",15.96
+"20431",2,"Not Married",39,"White",34.21
+"20435",2,"Not Married",51,"White",30.6
+"20439",8,"Married",59,"White",28.31
+"20440",2,"Not Married",55,"Black",32.2
+"20442",4,"Not Married",50,"White",25.43
+"20443",3,"Married",60,"White",32.13
+"20444",3,"Not Married",41,"White",25.02
+"20445",2,"Married",73,"White",37.25
+"20446",2,"Married",45,"White",30.99
+"20451",2,"Not Married",46,"White",30.21
+"20457",2,"Married",65,"White",33.75
+"20459",0,"Married",41,"White",25.28
+"20460",2,"Married",63,"White",32.98
+"20461",2,"Married",33,"White",32.75
+"20462",0,"Not Married",21,"Black",27.13
+"20465",2,"Not Married",36,"Black",18.07
+"20470",2,"Not Married",20,"White",19.1
+"20473",4,"Not Married",28,"White",17.82
+"20475",2,"Not Married",83,"White",35.89
+"20476",1,"Married",37,"White",29.33
+"20478",2,"Not Married",22,"White",19.65
+"20480",0,"Married",30,"Black",34.5
+"20481",4,"Not Married",46,"Other",24.88
+"20483",2,"Married",57,"White",29.36
+"20488",3,"Not Married",31,"White",22.82
+"20490",5,"Married",36,"White",12.13
+"20491",2,"Married",51,"White",46.48
+"20493",3,"Married",57,"White",22.63
+"20494",2,"Married",35,"White",24.46
+"20495",2,"Not Married",37,"Black",20.01
+"20502",2,"Not Married",49,"Black",30.83
+"20503",3,"Married",57,"White",30.77
+"20504",4,"Married",54,"White",23.6
+"20505",2,"Married",37,"White",23.72
+"20506",5,"Married",39,"Black",11.64
+"20510",5,"Married",49,"White",34.41
+"20511",2,"Not Married",67,"White",23.61
+"20515",8,"Not Married",44,"White",18.85
+"20526",3,"Married",45,"White",30.25
+"20530",6,"Married",45,"Black",19.96
+"20533",2,"Married",41,"White",22.77
+"20535",1,"Married",61,"White",15.98
+"20536",0,"Married",36,"White",24.84
+"20537",2,"Married",50,"White",17.7
+"20538",1,"Not Married",59,"White",33.24
+"20541",5,"Married",65,"White",25.95
+"20542",1,"Married",52,"White",28.42
+"20547",4,"Married",59,"Black",38.39
+"20555",10,"Not Married",30,"Black",0
+"20559",0,"Not Married",52,"White",25.72
+"20562",3,"Not Married",50,"White",23.96
+"20565",5,"Married",73,"Black",33.04
+"20566",2,"Not Married",22,"White",16.26
+"20568",5,"Not Married",46,"Black",20.6
+"20570",4,"Married",44,"White",20.86
+"20574",1,"Married",33,"White",28.22
+"20577",1,"Married",56,"White",28.33
+"20579",4,"Not Married",72,"White",30.18
+"20580",5,"Married",54,"White",21.7
+"20583",0,"Not Married",50,"White",25.36
+"20585",2,"Not Married",58,"White",25.8
+"20586",2,"Married",46,"Black",25.14
+"20589",2,"Married",58,"White",19.49
+"20590",1,"Not Married",60,"White",39.92
+"20591",2,"Not Married",41,"Black",34.17
+"20592",3,"Married",29,"Black",23.33
+"20593",2,"Not Married",32,"White",24.45
+"20602",4,"Not Married",56,"White",20.27
+"20603",5,"Not Married",26,"Black",23.6
+"20605",2,"Married",69,"White",19.2
+"20606",3,"Not Married",59,"White",29.8
+"20611",1,"Married",53,"Black",14.24
+"20622",4,"Not Married",48,"White",17.21
+"20624",2,"Not Married",39,"White",38.45
+"20627",4,"Not Married",72,"White",26.43
+"20629",2,"Not Married",47,"Black",23.95
+"20633",6,"Not Married",52,"Black",22.69
+"20634",4,"Married",62,"White",23.45
+"20637",3,"Not Married",56,"White",32.57
+"20640",3,"Not Married",53,"White",23.99
+"20643",3,"Married",47,"White",31.14
+"20645",2,"Married",51,"White",39.98
+"20647",3,"Not Married",32,"White",34.21
+"20648",4,"Married",64,"White",24.02
+"20650",12,"Not Married",20,"Black",15.61
+"20651",3,"Not Married",59,"White",31.84
+"20652",2,"Not Married",43,"Black",19.78
+"20653",2,"Not Married",22,"Black",16.27
+"20654",2,"Not Married",39,"Black",27.13
+"20655",1,"Not Married",30,"Black",34.34
+"20656",4,"Not Married",57,"Black",23.33
+"20666",2,"Married",52,"White",28.52
+"20670",6,"Married",46,"Black",12.4
+"20675",1,"Married",34,"White",33.48
+"20677",1,"Not Married",40,"White",21.65
+"20678",1,"Married",62,"White",32.22
+"20680",4,"Married",30,"White",16.9
+"20681",2,"Not Married",32,"Other",17.89
+"20683",2,"Married",28,"White",40.22
+"20684",2,"Not Married",43,"Black",38.89
+"20685",1,"Not Married",46,"White",20.87
+"20686",1,"Not Married",42,"Black",31.17
+"20692",5,"Not Married",41,"Other",15.73
+"20694",3,"Married",74,"Other",24.42
+"20695",1,"Married",44,"White",33.34
+"20698",2,"Married",86,"White",30.05
+"20704",0,"Not Married",34,"White",36.34
+"20705",3,"Married",66,"White",35.87
+"20707",4,"Not Married",52,"White",14.48
+"20709",4,"Not Married",25,"White",16.53
+"20711",1,"Not Married",29,"White",18.08
+"20712",2,"Not Married",26,"White",28.98
+"20718",2,"Not Married",35,"White",19.6
+"20719",2,"Married",32,"White",18.46
+"20720",2,"Married",31,"White",23.23
+"20722",1,"Married",26,"White",19.5
+"20723",1,"Married",56,"White",23.19
+"20728",2,"Married",51,"Black",35.7
+"20730",2,"Married",40,"White",18.95
+"20731",5,"Not Married",51,"White",12.25
+"20737",2,"Not Married",54,"White",34.74
+"20739",1,"Married",41,"White",37.61
+"20740",2,"Married",33,"White",34.49
+"20741",6,"Married",63,"White",22.31
+"20742",1,"Married",44,"White",35.46
+"20749",2,"Not Married",42,"White",23.21
+"20752",3,"Married",40,"White",27.59
+"20755",4,"Married",77,"White",21.28
+"20756",2,"Not Married",41,"White",30.31
+"20758",3,"Not Married",74,"White",17.67
+"20759",2,"Married",33,"White",17.19
+"20761",2,"Not Married",36,"White",14.62
+"20764",2,"Married",33,"White",34.14
+"20767",3,"Not Married",42,"White",12.22
+"20770",1,"Married",56,"White",31.94
+"20771",3,"Not Married",23,"White",28.92
+"20772",1,"Married",30,"White",35.78
+"20774",2,"Not Married",32,"White",37.87
+"20778",1,"Married",56,"White",18.74
+"20779",4,"Not Married",24,"White",29.02
+"20782",8,"Not Married",37,"White",10.67
+"20783",2,"Not Married",47,"White",25.33
+"20786",3,"Married",44,"White",32.49
+"20788",4,"Not Married",43,"White",20
+"20794",2,"Not Married",29,"White",24.65
+"20795",4,"Married",72,"White",40.76
+"20797",0,"Not Married",27,"White",26.09
+"20799",4,"Married",56,"White",21.39
+"20800",3,"Married",44,"White",29.88
+"20801",24,"Not Married",31,"Black",3.14
+"20810",1,"Married",54,"White",27.15
+"20811",4,"Not Married",31,"White",28.42
+"20813",4,"Married",67,"White",21.8
+"20814",0,"Married",47,"Other",36.31
+"20817",3,"Not Married",57,"White",33.5
+"20819",2,"Not Married",46,"White",24.74
+"20822",4,"Not Married",64,"White",31.3
+"20825",1,"Not Married",19,"White",32.65
+"20826",2,"Married",39,"White",16.33
+"20827",2,"Not Married",41,"White",29.42
+"20828",1,"Married",44,"White",17.69
+"20829",1,"Married",57,"White",25.6
+"20830",3,"Married",55,"White",37.45
+"20831",1,"Married",46,"White",32.28
+"20833",0,"Not Married",37,"White",38.41
+"20834",3,"Not Married",87,"White",33.55
+"20836",2,"Not Married",30,"White",30.49
+"20837",3,"Not Married",56,"White",8.44
+"20838",1,"Married",39,"White",17.05
+"20839",1,"Not Married",32,"White",26.73
+"20840",2,"Not Married",50,"White",10.51
+"20842",1,"Married",43,"White",24.75
+"20846",1,"Married",39,"White",22.36
+"20850",5,"Married",58,"White",29.13
+"20853",0,"Not Married",30,"Other",23.68
+"20854",1,"Married",58,"White",35.3
+"20857",3,"Not Married",66,"White",22.44
+"20858",1,"Married",30,"White",26.35
+"20863",5,"Married",44,"White",15.72
+"20864",4,"Not Married",31,"White",27.04
+"20868",3,"Not Married",59,"White",17.86
+"20869",2,"Married",38,"White",30.95
+"20870",4,"Married",29,"White",42.1
+"20874",2,"Not Married",29,"Other",21.71
+"20876",2,"Not Married",34,"Other",26.55
+"20878",0,"Married",66,"White",38.59
+"20881",2,"Not Married",65,"White",31.06
+"20882",3,"Not Married",65,"White",35.97
+"20883",2,"Not Married",56,"White",20.02
+"20886",4,"Not Married",55,"Black",12.44
+"20889",1,"Married",29,"White",29.45
+"20892",2,"Married",33,"White",24.42
+"20893",3,"Married",56,"White",24.06
+"20903",0,"Not Married",55,"Black",29.24
+"20905",5,"Not Married",56,"Black",17.19
+"20906",2,"Not Married",27,"White",15.66
+"20909",2,"Married",30,"Black",32.73
+"20910",1,"Not Married",25,"Other",30.19
+"20912",2,"Not Married",58,"White",25.44
+"20916",4,"Not Married",44,"Black",32.9
+"20917",3,"Not Married",35,"Black",28.59
+"20919",7,"Not Married",53,"Black",24.68
+"20920",2,"Not Married",28,"Black",11.4
+"20922",5,"Not Married",50,"Other",30.07
+"20930",2,"Not Married",63,"White",38.87
+"20931",3,"Not Married",29,"White",24.49
+"20937",2,"Not Married",67,"White",27.15
+"20938",2,"Not Married",30,"White",24.84
+"20939",2,"Not Married",19,"White",23.4
+"20942",3,"Not Married",75,"White",18.29
+"20946",8,"Not Married",58,"White",17.17
+"20952",2,"Not Married",54,"White",34.92
+"20956",3,"Married",54,"White",26.32
+"20961",1,"Not Married",37,"White",23.25
+"20962",1,"Married",43,"Other",29.98
+"20964",3,"Married",39,"Other",32.19
+"20965",0,"Married",52,"Other",21.27
+"20969",10,"Married",51,"White",22.17
+"20972",2,"Not Married",30,"White",19.72
+"20974",5,"Not Married",49,"Black",25.79
+"20978",1,"Married",35,"White",36.75
+"20979",3,"Married",55,"White",35.59
+"20989",5,"Not Married",61,"Other",25.11
+"20990",3,"Not Married",48,"White",24.28
+"20993",4,"Not Married",25,"White",18.09
+"20994",3,"Not Married",36,"White",10.16
+"20997",2,"Not Married",29,"White",16.57
+"20998",10,"Not Married",60,"White",22.89
+"21001",2,"Not Married",57,"White",16.72
+"21011",2,"Not Married",43,"White",28.45
+"21012",4,"Not Married",43,"Other",25.51
+"21014",3,"Not Married",58,"White",20.69
+"21015",2,"Not Married",34,"White",25.99
+"21017",3,"Married",55,"White",31.3
+"21018",4,"Not Married",26,"Black",14.1
+"21020",1,"Married",56,"White",15
+"21022",0,"Not Married",33,"White",30.35
+"21023",1,"Not Married",38,"White",33.82
+"21025",1,"Not Married",65,"White",42.42
+"21026",4,"Not Married",48,"White",27.58
+"21027",5,"Married",32,"Black",12.62
+"21030",3,"Not Married",61,"White",18.88
+"21031",4,"Not Married",48,"Black",21.23
+"21032",1,"Not Married",25,"White",29.73
+"21035",2,"Married",64,"White",30.91
+"21037",5,"Not Married",23,"White",19.78
+"21045",2,"Married",56,"White",21.31
+"21052",2,"Not Married",27,"White",28.61
+"21056",1,"Married",35,"White",32.41
+"21057",1,"Not Married",42,"Black",32.72
+"21063",4,"Not Married",33,"White",13.44
+"21068",4,"Not Married",53,"Other",29.3
+"21069",3,"Married",30,"White",15.52
+"21081",1,"Married",45,"White",30.26
+"21083",4,"Married",30,"White",31.82
+"21086",4,"Not Married",54,"White",20.5
+"21088",1,"Married",51,"White",34.22
+"21090",2,"Married",52,"White",24.55
+"21091",5,"Not Married",27,"White",23.67
+"21092",3,"Married",48,"White",41.97
+"21095",2,"Not Married",31,"White",23.46
+"21097",0,"Married",39,"White",22.04
+"21099",4,"Married",36,"White",21.44
+"21100",2,"Married",65,"White",25.95
+"21105",1,"Not Married",20,"White",28.85
+"21108",1,"Married",79,"White",22.68
+"21110",2,"Not Married",40,"White",20.57
+"21111",3,"Not Married",44,"White",30.32
+"21113",2,"Not Married",68,"White",28.84
+"21115",2,"Not Married",72,"White",45.57
+"21116",2,"Not Married",47,"White",27.41
+"21117",0,"Not Married",39,"White",21.52
+"21118",1,"Not Married",36,"Other",16.65
+"21119",2,"Not Married",33,"White",32.99
+"21121",2,"Not Married",40,"White",19.52
+"21122",3,"Married",29,"White",25.3
+"21124",1,"Not Married",26,"White",19.72
+"21126",2,"Not Married",34,"White",32.55
+"21128",4,"Married",45,"White",30.03
+"21130",1,"Not Married",32,"Other",23.69
+"21133",2,"Married",55,"White",37.97
+"21136",4,"Not Married",53,"White",14.12
+"21139",2,"Not Married",53,"White",25.43
+"21141",5,"Not Married",61,"White",15.97
+"21154",2,"Married",34,"White",27.09
+"21155",5,"Married",60,"White",32.24
+"21161",6,"Married",56,"White",27.54
+"21162",3,"Not Married",35,"Other",15.97
+"21165",2,"Not Married",26,"White",21.13
+"21166",1,"Married",33,"White",22.21
+"21168",0,"Married",42,"White",24.62
+"21173",2,"Not Married",41,"White",23.62
+"21175",6,"Married",48,"Black",29.31
+"21176",1,"Married",28,"Other",16.62
+"21177",2,"Married",37,"White",22.63
+"21180",1,"Married",24,"White",34.98
+"21182",5,"Not Married",58,"White",30.44
+"21183",5,"Not Married",47,"White",29.39
+"21186",1,"Married",27,"White",34.6
+"21188",4,"Married",42,"White",26.86
+"21189",1,"Married",31,"White",32.35
+"21190",1,"Married",66,"White",25.84
+"21192",4,"Married",49,"White",17.76
+"21197",3,"Married",58,"White",20.72
+"21198",2,"Married",59,"White",22.68
+"21199",6,"Married",55,"White",13.99
+"21208",3,"Married",49,"White",33.61
+"21211",3,"Married",58,"White",22.54
+"21213",2,"Not Married",70,"White",15.85
+"21214",4,"Married",56,"White",18.89
+"21216",10,"Married",62,"White",14.79
+"21218",1,"Married",30,"White",12.43
+"21219",1,"Married",46,"White",30.44
+"21223",3,"Married",60,"White",29.16
+"21227",4,"Married",51,"White",13.54
+"21228",1,"Not Married",39,"Other",34.95
+"21231",3,"Married",58,"White",22.59
+"21234",2,"Married",41,"White",22.77
+"21237",4,"Not Married",51,"White",21.45
+"21239",4,"Not Married",40,"White",5.66
+"21240",1,"Married",41,"White",29.11
+"21242",0,"Married",39,"White",25.99
+"21248",2,"Married",59,"White",25.8
+"21252",0,"Not Married",41,"White",31.34
+"21254",2,"Married",58,"White",30.21
+"21255",1,"Married",39,"White",22.2
+"21257",3,"Married",22,"White",21.29
+"21259",6,"Not Married",27,"White",9.7
+"21260",1,"Not Married",46,"White",46.07
+"21262",1,"Not Married",28,"Black",17.03
+"21264",4,"Married",43,"White",20.09
+"21269",2,"Married",45,"Black",38.08
+"21271",5,"Married",57,"White",28.18
+"21273",5,"Married",39,"White",14.66
+"21278",4,"Married",31,"White",27.19
+"21282",1,"Married",44,"Black",22.85
+"21284",1,"Not Married",24,"White",22.24
+"21288",3,"Not Married",44,"Black",31.05
+"21290",3,"Married",65,"White",21.06
+"21299",2,"Not Married",49,"White",19.74
+"21309",2,"Not Married",54,"White",26.84
+"21310",1,"Not Married",48,"White",17.51
+"21311",1,"Not Married",76,"White",29.3
+"21315",1,"Married",50,"White",17.04
+"21318",3,"Married",59,"White",22.08
+"21319",1,"Not Married",40,"White",39.26
+"21322",3,"Not Married",24,"Other",24.71
+"21324",0,"Not Married",23,"White",23.47
+"21326",1,"Not Married",30,"White",16.52
+"21328",3,"Married",49,"White",31.9
+"21329",5,"Not Married",27,"Other",12.28
+"21332",3,"Married",54,"White",23.34
+"21333",2,"Married",49,"White",19.65
+"21335",4,"Married",61,"White",22.48
+"21338",2,"Not Married",28,"White",29.36
+"21339",1,"Married",40,"White",22.43
+"21341",6,"Not Married",35,"White",32.02
+"21342",5,"Married",56,"White",27.36
+"21343",2,"Married",54,"White",27.55
+"21344",2,"Not Married",24,"White",14.1
+"21348",2,"Married",54,"White",29.93
+"21350",2,"Married",30,"White",24.4
+"21352",1,"Married",54,"White",32.79
+"21357",5,"Married",51,"White",18.46
+"21358",2,"Married",51,"White",38.98
+"21360",3,"Not Married",31,"White",25.79
+"21361",0,"Not Married",44,"White",20.23
+"21362",1,"Not Married",63,"White",28.51
+"21364",3,"Married",48,"White",26.95
+"21366",0,"Married",31,"White",28.8
+"21367",1,"Married",39,"White",16.86
+"21368",1,"Married",30,"White",31.65
+"21373",2,"Married",67,"White",22.44
+"21375",2,"Married",45,"White",23.03
+"21379",2,"Married",29,"White",28.59
+"21382",1,"Not Married",23,"Other",19.1
+"21383",4,"Not Married",42,"Black",22.62
+"21388",8,"Not Married",38,"Other",12.88
+"21392",5,"Not Married",62,"Black",19.47
+"21393",3,"Not Married",62,"Other",29.02
+"21400",2,"Married",71,"White",36.2
+"21403",0,"Not Married",50,"White",19.37
+"21408",1,"Not Married",24,"White",18.98
+"21411",2,"Not Married",56,"White",22.14
+"21412",5,"Not Married",64,"Black",13.65
+"21416",2,"Not Married",35,"Other",21.12
+"21420",2,"Married",53,"White",29.16
+"21423",4,"Married",37,"Black",24.13
+"21425",2,"Not Married",55,"White",24.31
+"21428",2,"Married",45,"White",31.1
+"21429",3,"Married",56,"White",46.18
+"21433",4,"Not Married",26,"Black",5.96
+"21435",7,"Not Married",46,"Black",9.95
+"21437",4,"Not Married",25,"White",23.82
+"21438",6,"Not Married",55,"White",34.09
+"21439",2,"Married",56,"White",16.97
+"21445",2,"Not Married",53,"White",25.62
+"21453",4,"Married",41,"White",33.42
+"21454",1,"Not Married",38,"White",31.6
+"21455",2,"Not Married",46,"White",26.35
+"21457",2,"Not Married",34,"White",24.58
+"21459",1,"Married",34,"White",30.43
+"21462",2,"Married",65,"White",27.27
+"21463",0,"Married",48,"White",39.85
+"21464",2,"Married",38,"White",22.02
+"21465",2,"Not Married",30,"White",19.19
+"21466",0,"Married",48,"White",34.95
+"21467",2,"Not Married",49,"White",28.77
+"21470",0,"Married",53,"White",37.95
+"21471",1,"Married",52,"White",13.34
+"21474",3,"Not Married",54,"White",24.77
+"21476",2,"Not Married",40,"White",22.14
+"21480",4,"Not Married",56,"White",22.68
+"21481",4,"Not Married",24,"White",29.03
+"21483",2,"Not Married",71,"White",18.49
